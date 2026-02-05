@@ -1,3 +1,8 @@
+<img width="1592" height="845" alt="Screenshot 2026-02-05 231647" src="https://github.com/user-attachments/assets/588a6dbf-144f-4fc7-a4a2-fa0d7dc54a5a" />
+
+
+
+
 1. Project Overview
 This website is a music streaming web application developed using HTML, CSS, and Vanilla JavaScript. The main focus of the project is to build a complete music player from scratch without using any frameworks. The project is currently under active development and is not yet finalized, but its core functionality is stable and usable.
 
